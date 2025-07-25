@@ -8,6 +8,7 @@ When you install a custom pack:
 # 🌐 Where to Get Custom Asset Packs?
 * MediaFire (JCWCACV7.0 ZIP folder pack)
 * Internet Archive (By searching “Wrapper Offline custom assets” or “JCWCAC” in the search bar)
+* Github Repository (For both supported custom asset versions such as 8.0 and 7.0)
 * ⚠️ Sometimes you need to scan ZIP folders and ZIP files, then always check trusted creators.
 # 🧥 How to get Remastered Clothes in Wrapper Offline (Custom Assets Method)
 ✅ True Working Facts:
