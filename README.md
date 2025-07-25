@@ -43,4 +43,4 @@ Wrapper-Offline > resources > app > server > store > 3a981f5cb2739137 > CC Store
 * You will now see all the remastered clothes appearing directly and you will even have new expressions added!
 * If you are misunderstanding those written steps or you even still don't know to follow them, then is the best to wacth the tutorial here. [Tutorial](https://drive.google.com/file/d/1oZlOW2qbAR6abNBa9tEYBS5UWKtip_Tu/view?usp=sharing)
 # Custom asset credit
-Thanks to jack the vyonder 2006 for the custom assets for wrapper offline comedy world.
+Thanks to jack the vyonder 2006 for those custom assets of comedy world for Wrapper Offline.
