@@ -10,7 +10,7 @@ When you install a custom pack:
 * Internet Archive (By searching “Wrapper Offline custom assets” or “JCWCAC” in the search bar)
 * ⚠️ Sometimes you need to scan ZIP folders and ZIP files, then always check trusted creators.
 # 🧥 How to get Remastered Clothes in Wrapper Offline (Custom Assets Method)
-✅ True Facts You Requested:
+✅ True Working Facts:
 * ☑️ Works in all versions of Wrapper Offline
 * ☑️ Works without needing to restart Wrapper Offline
 * ☑️ Only works for Comedy World (Family folder)
