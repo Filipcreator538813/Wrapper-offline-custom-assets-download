@@ -41,4 +41,4 @@ Wrapper-Offline > resources > app > server > store > 3a981f5cb2739137 > CC Store
 # 🚀 Step 6: Open Character Creator
 * Open Wrapper offline > click "Create a character" button > Select comedy world theme
 * You will now see all the remastered clothes appearing directly and you will even have new expressions added!
-(https://drive.google.com/file/d/1oZlOW2qbAR6abNBa9tEYBS5UWKtip_Tu/view?usp=sharing)
+[Tutorial](https://drive.google.com/file/d/1oZlOW2qbAR6abNBa9tEYBS5UWKtip_Tu/view?usp=sharing)
