@@ -22,6 +22,7 @@ When you install a custom pack:
 📥 Go to one of the official links:
  * Media fire: https://www.mediafire.com/file/6tvyiidmhxh566q/JCWCACV7.0.zip/file
  * Internet archive: https://archive.org/details/jcwcac-v8
+ * Github repository: https://github.com/Filipcreator538813/Wrapper-offline-custom-assets-download/releases
 # 📁 Step 2: Extract the ZIP Folder
 1. Right-click the ZIP file → “Extract All…” or you can extract it using ZIP Extactor such as WinRAR
 2. Open the extracted folder (should be named something like JCWCACV7.0 or JCWCAC8.0)
