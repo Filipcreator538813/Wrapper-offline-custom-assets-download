@@ -33,7 +33,7 @@ When you install a custom pack:
 2. Select all files and folders, or even by pressing Ctrl + A on keyboard
 # 🔧 Step 4: Navigate to the Comedy World Character Assets
 ```python
-Wrapper-Offline > resources > app > server > store > 3a981f5cb2739137 > CC Store > family
+Wrapper-Offline → resources → app → server → store → 3a981f5cb2739137 → CC Store → family
 ```
 # 💡 Step 5: Replace the Assets
 1. Inside the family folder:
